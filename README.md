@@ -7,7 +7,7 @@ _**PIZZAYUM!**_
 1) To order, click on the green button that display the price for each pizza.
 2) Then, input the quantity you want for that particular pizza. Click OK to confirm.
 3) The details of pizza are displayed on the left side.
-4) click Clear Order to reset order.
+4) Click Clear Order to reset order.
 5) Click Total Price to calculate total price for the order. Total price including GST and SST is displayed.
 6) Click Print Receipt to print order receipt.
 <br>

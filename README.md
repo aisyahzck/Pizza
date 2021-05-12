@@ -1,5 +1,5 @@
 # Pizza
-a Pizza Ordering system developed using Java language.
+A Pizza Ordering system developed using Java language.
 <br>
 <br>
 

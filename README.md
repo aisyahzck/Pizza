@@ -1,8 +1,8 @@
 # Pizza
 a Pizza Ordering system developed using Java language.
-<p>
-<p>
-<p>
+<br>
+<br>
+<br>
 
 _**PIZZAYUM!**_
 1) To order, click on the green button that display the price for each pizza.

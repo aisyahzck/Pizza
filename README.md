@@ -11,6 +11,7 @@ _**PIZZAYUM!**_
 5) Click Total Price to calculate total price for the order. Total price including GST and SST is displayed.
 6) Click Print Receipt to print order receipt.
 <br>
+<br>
 
 **Home**
 <p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/home.PNG" width="950" height="500"/> 

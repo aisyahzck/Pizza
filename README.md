@@ -2,10 +2,10 @@
 a Pizza Ordering system developed using Java language.
 
 Home
-<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/home.PNG" width="500" height="300"/> 
+<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/home.PNG" width="800" height="500"/> 
 
 Ordering
-<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/order.PNG" width="500" height="300"/> 
+<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/order.PNG" width="800" height="500"/> 
 
 Total
-<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/total.PNG" width="500" height="300"/>
+<p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/total.PNG" width="800" height="500"/>

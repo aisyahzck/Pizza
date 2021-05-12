@@ -2,7 +2,6 @@
 a Pizza Ordering system developed using Java language.
 <br>
 <br>
-<br>
 
 _**PIZZAYUM!**_
 1) To order, click on the green button that display the price for each pizza.
@@ -11,18 +10,15 @@ _**PIZZAYUM!**_
 4) click Clear Order to reset order.
 5) Click Total Price to calculate total price for the order. Total price including GST and SST is displayed.
 6) Click Print Receipt to print order receipt.
-<p>
+<br>
 
 **Home**
 <p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/home.PNG" width="950" height="500"/> 
-<p>
-<p>
+<br>
 
 **Entering quantity for the particular pizza**
 <p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/order.PNG" width="950" height="500"/> 
-<p>
-<p>
+<br>
 
 **Displaying total price**
 <p><img src="https://github.com/aisyahzck/Pizza/blob/master/img/total.PNG" width="950" height="500"/>
-<p>

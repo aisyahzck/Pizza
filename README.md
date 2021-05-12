@@ -4,7 +4,7 @@ a Pizza Ordering system developed using Java language.
 <br>
 
 _**PIZZAYUM!**_
-_In crust, we trust_
+<p>_In crust, we trust_
 1) To order, click on the green button that display the price for each pizza.
 2) Then, input the quantity you want for that particular pizza. Click OK to confirm.
 3) The details of pizza are displayed on the left side.
